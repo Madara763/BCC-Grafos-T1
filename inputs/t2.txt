@@ -1,0 +1,7 @@
+// Grafo de exemplo
+Grafoda
+a -- b 1
+a -- c 2
+b -- d 3
+sozinho
+dupla -- duplinha 3

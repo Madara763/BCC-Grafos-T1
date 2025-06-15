@@ -1,0 +1,21 @@
+GrafoTeste
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+A -- B 1
+A -- C 2
+B -- D 1
+C -- D 1
+D -- E 3
+E -- F 2
+F -- G 1
+G -- H 1
+H -- I 1
+I -- J 1
