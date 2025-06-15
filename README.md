@@ -1,4 +1,4 @@
-# Relatório das Funções de Manipulação de Grafos
+# Funções de Manipulação de Grafos
 ---
 
 ## 1. Estruturas Utilizadas
